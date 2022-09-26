@@ -2,6 +2,7 @@
 
 Una GRUB hecha en [rEFInd](https://sourceforge.net/projects/refind/) basada en Lazaro©™
 
+![background](https://user-images.githubusercontent.com/114153352/192299904-d6031f94-f3f4-4c8f-9da9-60c7ad63ad89.png)
 
 
 ## Instalacion
