@@ -32,7 +32,7 @@ Tema modificado de [refind-Minimal-Black](https://github.com/andersfischernielse
 
 
 
-## Eliminar Boots Inecesarios
+## Eliminar Boots Innecesarios
 
 Para eliminar boots que no queremos, simplemente elimina la linea de ```include themes/rEFInd-minimal-black/theme.conf```
 en ```renfind.conf```y reinicia el PC, cuando salga el menu principal de reFind podras eliminar los que quieras seleccionando boots
