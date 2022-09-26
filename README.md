@@ -31,13 +31,14 @@ Tema modificado de [refind-Minimal-Black](https://github.com/andersfischernielse
 - Guarda el archivo y el tema estara instalado
 
 
-##Atribucion
-
-Tema Minimal rEFInd Black por [andersfischernielsen](https://github.com/andersfischernielsen/rEFInd-minimal-black)
-
 
 ## Eliminar Boots Inecesarios
 
 Para eliminar boots que no queremos, simplemente elimina la linea de ```include themes/rEFInd-minimal-black/theme.conf```
 en ```renfind.conf```y reinicia el PC, cuando salga el menu principal de reFind podras eliminar los que quieras seleccionando boots
 y presionando Suprimir, hecho eso puedes volver a dejar el archivo de```refind.conf``` como estaba.
+
+## Atribucion
+
+Tema Minimal rEFInd Black por [andersfischernielsen](https://github.com/andersfischernielsen/rEFInd-minimal-black)
+
