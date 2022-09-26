@@ -8,7 +8,7 @@ Una GRUB hecha en [reFind](https://sourceforge.net/projects/refind/) basada en L
 
 #### Instalar reFind BootManager
 
-```http
+```
 sudo apt-add-repository ppa:rodsmith/refind
 sudo apt-get update
 sudo apt-get install refind
