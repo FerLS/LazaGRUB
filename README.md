@@ -31,7 +31,9 @@ Tema modificado de [refind-Minimal-Black](https://github.com/andersfischernielse
 - Guarda el archivo y el tema estara instalado
 
 
+##Atribucion
 
+Tema Minimal rEFInd Black por [andersfischernielsen](https://github.com/andersfischernielsen/rEFInd-minimal-black)
 
 
 ## Eliminar Boots Inecesarios
