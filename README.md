@@ -1,6 +1,6 @@
 # LazaGRUB
 
-Una GRUB hecha en [reFind](https://sourceforge.net/projects/refind/) basada en Lazaro©™
+Una GRUB hecha en [rEFInd](https://sourceforge.net/projects/refind/) basada en Lazaro©™
 
 
 
