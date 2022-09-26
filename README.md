@@ -6,7 +6,7 @@ Una GRUB hecha en [rEFInd](https://sourceforge.net/projects/refind/) basada en L
 
 ## Instalacion
 
-#### Instalar reFind BootManager
+#### Instalar rEFInd BootManager
 
 ```
 sudo apt-add-repository ppa:rodsmith/refind
