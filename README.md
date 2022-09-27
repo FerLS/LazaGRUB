@@ -31,6 +31,9 @@ Tema modificado de [refind-Minimal-Black](https://github.com/andersfischernielse
 - Guarda el archivo y el tema estara instalado
 
 
+## Cambiar el fondo
+
+Puedes cambiar el fondo substituyendo la imagen de ```refind/themes/rEFInd-minimal-black/background.png```
 
 ## Eliminar Boots Innecesarios
 
