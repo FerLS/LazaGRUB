@@ -41,4 +41,4 @@ y presionando Suprimir, hecho eso puedes volver a dejar el archivo de```refind.c
 ## Atribucion
 
 Tema Minimal rEFInd Black por [andersfischernielsen](https://github.com/andersfischernielsen/rEFInd-minimal-black)
-
+Y obvias gracias a Sr Lazaro©™
