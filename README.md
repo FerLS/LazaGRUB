@@ -24,6 +24,7 @@ sudo apt-get install refind
 
 Tema modificado de [refind-Minimal-Black](https://github.com/andersfischernielsen/rEFInd-minimal-black)
 
+- Descargar la carpeta que he subido con los archivos necesarios
 - Encontrar la carpeta EFI, suele estar en ```/boot```, abrir la carpeta con permisos de administrador
 - Mover la carpeta  ```rEFInd-minimal-black``` a la ubicacion de la carpeta ```refind/themes``` dentro de la carpeta EFI
 - Si la carpeta themes no esta , crea una 
